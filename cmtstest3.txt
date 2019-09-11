@@ -9,7 +9,7 @@ end as Long,
 
 CASE 
 when ya.rowid = '536870914' then 'MN SP FCCA'
-end as Name, 
+end as Name,
 
 CASE 
 when bp1.OutPercentUtil >= 80 and ya.status < 10 and yr.status < 5 or bp1.inPercentUtil >= 80 and ya.status < 10 and yr.status < 5 then 'Bandwidth'
