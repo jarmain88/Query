@@ -3,9 +3,9 @@
         "features": [
         {
             "type": "Feature",
-            "geometry": {"type": "Point", "coordinates": [-78.0, 0.5]},
+            "geometry": {"type": "Point", "coordinates": [-70.01578330993652, 12.52733409934057]},
             "properties": {
-                "title": "Hello, World"
+                "title": "Node01"
             }
         }
     ]
