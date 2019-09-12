@@ -1,11 +1,11 @@
 SELECT 
 CASE 
 when ya.rowid = '536870914' then 12.534742328274342  
-end as Lat,
+end as Latitude,
 
 CASE 
 when ya.rowid = '536870914' then -70.01948666675185 
-end as Long
+end as Longitude
 
 
 FROM 
